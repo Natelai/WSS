@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eq6qLnaSmmA9dDzAajXtT3mz4c6hV33mrG5II0wM7uWufYITdgnaRcwsf39WFj/jvX/N0+kMc1EhMrryZ6KOrw==",
+  "success": true,
+  "projectFilePath": "/home/user/Desktop/Projects/WSS/WebSocketClient/WebSocketClient/WebSocketClient.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/messagepack/2.5.140/messagepack.2.5.140.nupkg.sha512",
+    "/home/user/.nuget/packages/messagepack.annotations/2.5.140/messagepack.annotations.2.5.140.nupkg.sha512",
+    "/home/user/.nuget/packages/messagepack.aspnetcoremvcformatter/2.5.140/messagepack.aspnetcoremvcformatter.2.5.140.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.net.stringtools/17.6.3/microsoft.net.stringtools.17.6.3.nupkg.sha512",
+    "/home/user/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
